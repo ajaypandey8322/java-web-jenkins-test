@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Service page</title>
 </head>
 <body>
 <h1> this is service jsp file</h1>
